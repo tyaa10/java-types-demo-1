@@ -67,5 +67,7 @@ public class JavaTypesDemo {
                 System.out.println(ch1--);
             }
         }
+
+        //Test comment
     }
 }
